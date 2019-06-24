@@ -173,7 +173,8 @@ p {
   text-decoration: none;
 }
 
-.footer-link :hover{
+.footer-link:hover{
+  text-decoration: none;
   color: #EAF6F6;
 }
 
