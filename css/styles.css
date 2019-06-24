@@ -2,6 +2,15 @@ html {
   height: 100%;
 }
 
+a{
+  color: #66BFBF;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
 body {
   margin: 0px;
   text-align: center;
@@ -29,16 +38,9 @@ h3 {
   color: #11999E;
 }
 
-a {
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
-  text-decoration: none;
-}
 
-a:hover{
-  color: #EAF6F6;
-}
+
+
 
 table {
   text-align: left;
@@ -161,6 +163,17 @@ p {
   background-color: #66BFBF;
   width:100%; 
   padding: 50px 0 20px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link :hover{
+  color: #EAF6F6;
 }
 
 .copy-right{
