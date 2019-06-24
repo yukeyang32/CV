@@ -73,6 +73,7 @@ p {
   background-color: #e6f8f9;
   position: relative;
   padding: 100px;
+  padding-bottom: 0;
 }
 
 .coding-pic {
@@ -115,14 +116,14 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  top: 40px;
-  right: 300px;
+  top: 50px;
+  right: 250px;
 }
 
 .top-cloud {
   position: absolute;
-  bottom: 400px;
-  left: 240px;
+  bottom: 300px;
+  left: 200px;
 }
 
 
